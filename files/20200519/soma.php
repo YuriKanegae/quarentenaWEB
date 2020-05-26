@@ -22,11 +22,11 @@
 
     <body>
         <form>
-            <input type = "number" id = "number1"/>
+            <input type = "number" id = "number1" placeholder = "Número 1"/>
             +
-            <input type = "number" id = "number2"/>
+            <input type = "number" id = "number2" placeholder = "Número 2"/>
             =
-            <input type = "number" id = "result"/>
+            <input type = "number" id = "result" placeholder = "Resultado"/>
         </form><br/>
 
         <button onclick = "calcular()">Calcular</button>
