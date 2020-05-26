@@ -87,7 +87,7 @@
 
                 <tbody>
                     <?php
-                        listaPastas('.', 0);
+                        listaPastas('files', 0);
                     ?>
                 </tbody>
             </table>
